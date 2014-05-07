@@ -6,9 +6,14 @@
 
 alkdsjf;lksdj;lkdsf
 
-*lkadjf*
+*Italic*
+
+_Italic_
+
 **Bold**
-***lkfdlkj***
+
+***Bold Italic***
+
 - indent
  - indent
 
