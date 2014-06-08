@@ -10,9 +10,6 @@
 
 _Italic_
 
-__Highlight__
-
-
 **Bold**
 
 ***Bold Italic***
